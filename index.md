@@ -1,4 +1,1 @@
-Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Diderot (Paris VII) in 2006. His interest in natural language processing motivated him to pursue Linguistics after initially studying Computer Science. His current research interests include machine learning approaches for morphology and syntax of natural language.
-
-
-He was a Lecturer in the Department of Computer Science at IUT de Lannion (Université de Rennes 1) during 2013-2014 and a Research Scientist at CEA Nano-INNOV during 2015-2016. He was a Visiting Assistant Professor in the Department of Linguistics at University of Arizona during 2016-2017 and in the Department of Linguistics at SUNY Buffalo during 2018-2019. He is an acting/affiliate assistant professor in the Department of Linguistics at University of Washinton since Fall 2019.
+![jungyeul park](./github.png)
